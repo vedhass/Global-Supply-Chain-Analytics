@@ -1,4 +1,4 @@
-# Corporate Capstone: Global Supply Chain & Inventory Analytics (Multi-File SQL Architecture)
+# Corporate Capstone: Global Supply Chain & Inventory Analytics
 
 ## 1. ASK (Project Objective)
 - **Business Task:** Evaluate warehouse inventory distribution across regional nodes to optimize supply chain capacity, minimize overstock costs, and isolate locked capital.
